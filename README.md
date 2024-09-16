@@ -74,3 +74,4 @@ Display the grades as per the table given below:
 
 ### _Answer_
 
+![exercise 5](flowcharts/exercise_5.png)
