@@ -47,6 +47,8 @@ Write an algorithm and draw a flowchart that will read three numbers and prints 
 
 ### _Answer_
 
+![exercise 3](flowcharts/exercise_3.png)
+
 ## Exercise 4
 
 Write an algorithm and draw a flowchart to check the three number inputs whether a triangle is possible or not.
