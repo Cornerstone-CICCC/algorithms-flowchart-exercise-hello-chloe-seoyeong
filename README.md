@@ -37,7 +37,7 @@ Pseudocode:
 
 ### _Answer_
 
-![exercise 1](flowcharts/exercise_2.png)
+![exercise 2](flowcharts/exercise_2.png)
 
 ## Exercise 3
 
