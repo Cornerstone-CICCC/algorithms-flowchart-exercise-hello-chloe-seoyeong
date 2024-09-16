@@ -23,6 +23,8 @@ Pseudocode:
 
 ### _Answer_
 
+![exercise 1](flowcharts/exercise_1.png)
+
 ## Exercise 2
 
 Write an algorithm and draw a flowchart that will read the two sides of a rectangle and calculate its area.
