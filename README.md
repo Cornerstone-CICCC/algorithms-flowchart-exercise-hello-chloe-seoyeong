@@ -55,6 +55,8 @@ Write an algorithm and draw a flowchart to check the three number inputs whether
 
 ### _Answer_
 
+![exercise 4](flowcharts/exercise_4.png)
+
 ## Exercise 5
 
 Draw the flowchart for the following:
